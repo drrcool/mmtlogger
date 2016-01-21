@@ -1,0 +1,8 @@
+Remaning Todos:
+
+- Make the "Open PDF" button architecture independent
+- Add "Run Parmaters" dialog and save them/pass them to the logger
+- Refine the parameters shown - file, time, object, others?
+- grouping of files
+- nuking an individual file
+
